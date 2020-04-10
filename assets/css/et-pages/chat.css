@@ -1,0 +1,17 @@
+#et-search-list{
+    display:none
+}
+#et-search-result{
+    display:none
+}
+#et-search-result:hover{
+    background-color: #f7f8fa;
+    cursor: pointer;
+}
+.et-chat-item:hover{
+    background-color: #f7f8fa;
+    cursor: pointer;
+}
+#et-search-not-found{
+    display: none
+}
