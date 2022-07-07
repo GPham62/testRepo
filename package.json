@@ -29,7 +29,7 @@
     "handlebars": "^4.7.3",
     "mailgun-js": "^0.22.0",
     "memorystore": "^1.6.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nodemailer": "^6.4.6",
     "nodemailer-mailgun-transport": "^2.0.0",
     "nodemon": "^2.0.2",
